@@ -109,6 +109,12 @@ footer h3{
     color: white;
     font-weight: 200;
 }
+.transparent-box img{
+    margin: 0 auto;
+    display: block;
+    width: 50%;
+    min-width: 100%;
+}
 
 /* SPEAKERS */
 /* 
@@ -159,7 +165,7 @@ footer h3{
     display: block;
     padding-bottom: 2rem;
 }
-.feature-1, .feature-2{
+.feature-1, .feature-2, .feature-3{
     width: 100%;
 }
 
